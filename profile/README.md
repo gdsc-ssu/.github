@@ -32,7 +32,7 @@
           gomjellie
         </a>
       </td>
-      <td>
+      <td align="center">
         4
       </td>
     </tr>
@@ -50,7 +50,7 @@
           suyeon96
         </a>
       </td>
-      <td>
+      <td align="center">
         2
       </td>
     </tr>
