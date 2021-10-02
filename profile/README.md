@@ -1,12 +1,58 @@
-## Hi there 👋
+<h2 align="center">천하제일 깃허브 자랑대회 리더보드</h2>
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+<table align="center">
+  <thead>
+    <tr>
+      <th>
+        등수
+      </th>
+      <th>
+        유저프로필
+      </th>
+      <th>
+        닉네임
+      </th>
+      <th>
+        누적커밋수 (2021.10.2~)
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        1등
+      </td>
+      <td align="center">
+        <a href="https://github.com/gomjellie" >
+          <img width="56" alt="image" src="https://avatars.githubusercontent.com/u/13645032?v=4">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/gomjellie" >
+          gomjellie
+        </a>
+      </td>
+      <td>
+        4
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        2등
+      </td>
+      <td align="center">
+        <a href="https://github.com/suyeon96" >
+          <img width="56" alt="image" src="https://avatars.githubusercontent.com/u/64878866?v=4">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/suyeon96" >
+          suyeon96
+        </a>
+      </td>
+      <td>
+        2
+      </td>
+    </tr>
+  </tbody>
+</table>
