@@ -1,3 +1,4 @@
+
 <h2 align="center">천하제일 깃허브 자랑대회 리더보드</h2>
 
 <table align="center">
@@ -28,12 +29,12 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/gomjellie" >
+      <a href="https://github.com/gomjellie" >
           gomjellie
-        </a>
+      </a>
       </td>
       <td align="center">
-        4
+        52
       </td>
     </tr>
     <tr>
@@ -46,13 +47,14 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/suyeon96" >
+      <a href="https://github.com/suyeon96" >
           suyeon96
-        </a>
+      </a>
       </td>
       <td align="center">
-        2
+        17
       </td>
     </tr>
   </tbody>
 </table>
+    
